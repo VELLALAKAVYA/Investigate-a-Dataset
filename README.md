@@ -1,2 +1,2 @@
 # Investigate-a-Dataset
-In this project, you will analyze a dataset and then communicate your findings about it. I used Python libraries 'Numpy', 'Pandas', and 'Matplotlib to make your analysis easier.
+In this project,I analyzed a dataset named "noshowappointments". I used Python libraries 'Numpy', 'Pandas', and 'Matplotlib to make data  analysis easier.
