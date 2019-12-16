@@ -3,6 +3,7 @@ This poject was completed as part of Udacity Data Analyst Nano Degree course req
 # Introduction
 In this project, I analyzed a dataset named "noshowappointments".<br>
 I used python libraries 'Python', 'Numpy', and 'Matplotlib' to make data analysis more easier.<br>
+# Dataset
 Dataset collected of 100k appointments made in medical offices in Brazil. Data shows patients who have made appointments but who have not showed up. What are some of the commonalities behind persons not showing up? Here is an attempt to give some possible reasons why
 # Analysis
 In this project, you'll go through the data analysis process and see how everything fits together.<br>
