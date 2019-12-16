@@ -8,7 +8,7 @@ Dataset collected of 100k appointments made in medical offices in Brazil. Data s
 In this project, you'll go through the data analysis process and see how everything fits together.<br>
 Later Nanodegree projects will focus on individual pieces of the data analysis process.
 # Libraries Used
-I used python libraries Numpy, Pandas and Matplotlib which make data analysis code in python easier.
+I used python libraries Numpy, Pandas and Matplotlib which make data analysis code in python easier.</br>
 # Conclusion
 I understood the steps involved in the data analysis process.<br>
 Posing questions using python numpy and getting answers from the dataset.<br>
