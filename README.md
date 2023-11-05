@@ -1,5 +1,5 @@
 # Investigate-a-Dataset
-This poject was completed as part of Udacity Data Analyst Nano Degree course requirements.
+This project is about analyzing "noshowappointments" data.
 ## Introduction
 In this project, I analyzed a dataset named "noshowappointments".<br>
 I used python libraries 'Python', 'Numpy', and 'Matplotlib' to make data analysis more easier.<br>
